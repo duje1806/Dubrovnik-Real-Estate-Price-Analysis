@@ -17,14 +17,6 @@ The dataset contains apartment listings with information such as:
 - Size (m²)
 - Location (district in Dubrovnik)
 
-## Project structure
-
-
-data/ Raw dataset (Excel file)
-main.py Main analysis script
-requirements.txt Dependencies
-
-
 ## Key insights
 
 - Dubrovnik real estate prices vary significantly by district
