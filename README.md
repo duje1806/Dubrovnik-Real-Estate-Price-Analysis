@@ -31,7 +31,7 @@ pip install -r requirements.txt
 Run the analysis script:
 
 
-python analysis.py
+python main.py
 
 
 ## Libraries used
